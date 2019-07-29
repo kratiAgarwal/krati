@@ -1,0 +1,16 @@
+@FinalFields, false
+com.blo.client.GreetingService, false, false, false, false, _, 2430549114
+com.blo.shared.Vote, true, true, true, true, com.blo.shared.Vote/320048324, 320048324
+com.blo.shared.secreg, true, true, true, true, com.blo.shared.secreg/2593596639, 2593596639
+com.blo.shared.testing, true, true, true, true, com.blo.shared.testing/532368828, 532368828
+com.blo.shared.user, true, true, true, true, com.blo.shared.user/3396741095, 3396741095
+com.blo.shared.verify, true, true, true, true, com.blo.shared.verify/2448947129, 2448947129
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.IllegalArgumentException, true, true, false, false, java.lang.IllegalArgumentException/1755012560, 1755012560
+java.lang.NumberFormatException, true, true, false, false, java.lang.NumberFormatException/3305228476, 3305228476
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
